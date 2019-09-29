@@ -19,7 +19,7 @@ class Scraper
     end
   end
 
-
+end
 
 
 #   def make_courses
